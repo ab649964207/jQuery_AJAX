@@ -1,1 +1,2 @@
 # jQuery_AJAX
+自己试着用原生JS实现了一下jQUery的AJAX
